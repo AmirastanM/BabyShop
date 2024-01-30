@@ -1,0 +1,3 @@
+Pay attention images size!
+
+it musn't be more 1024x850
